@@ -1,0 +1,20 @@
+[
+  {
+    "cnpj": "12345678000100",
+    "nome": "Empresa Exemplo LTDA",
+    "cidade": "Londrina",
+    "segmento": "Comércio"
+  },
+  {
+    "cnpj": "98765432000199",
+    "nome": "Outra Empresa SA",
+    "cidade": "Curitiba",
+    "segmento": "Indústria"
+  },
+  {
+    "cnpj": "11222333000144",
+    "nome": "Tech Soluções BR",
+    "cidade": "Maringá",
+    "segmento": "Tecnologia"
+  }
+]

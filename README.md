@@ -1,31 +1,31 @@
 # Sistema de Consultas Empresariais
 
-Sistema desenvolvido em Python para automação de consultas de dados e geração de relatórios.
+Sistema desenvolvido em Python para simular consultas de dados empresariais, listagem de registros e geração de relatórios em texto.
 
 ## Funcionalidades
 
-- Consulta de dados por CPF e CNPJ
-- Processamento de arquivos PDF e XML
-- Geração de relatórios automatizados
-- Interface para uso interno
-- Otimização de processos administrativos
+- Listagem de empresas cadastradas
+- Busca de empresa por CNPJ
+- Tratamento simples de entrada
+- Geração de relatório `.txt`
+- Estrutura modular em múltiplos arquivos
 
 ## Tecnologias utilizadas
 
 - Python
-- JSON / XML
-- APIs REST
-- Automação de processos
+- JSON
 - Manipulação de arquivos
+- Estrutura modular
 
 ## Objetivo
 
-Este projeto foi desenvolvido com foco em reduzir a dependência de sistemas terceirizados e melhorar a eficiência operacional em ambiente corporativo.
+Este projeto é uma versão simplificada inspirada em um sistema real de consultas empresariais desenvolvido em ambiente corporativo, adaptado para fins de demonstração em portfólio.
 
 ## Observação
 
-Por conter contexto empresarial interno, este repositório apresenta uma versão resumida e descritiva do projeto.
+Este repositório não contém dados internos nem código sensível da empresa. O conteúdo foi adaptado para fins de estudo e apresentação profissional.
 
-## Autor
+## Como executar
 
-Victor Hugo Daguis
+```bash
+python main.py

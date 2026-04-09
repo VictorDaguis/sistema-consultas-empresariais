@@ -1,0 +1,7 @@
+=== RELATÓRIO EMPRESARIAL ===
+Data de geração: 09/04/2026 09:41:09
+
+Nome: Empresa Exemplo LTDA
+CNPJ: 12345678000100
+Cidade: Londrina
+Segmento: Comércio
